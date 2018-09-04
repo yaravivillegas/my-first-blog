@@ -30,6 +30,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 # prueba git 1
+# prueba git 2
 
 INSTALLED_APPS = [
     'django.contrib.admin',
