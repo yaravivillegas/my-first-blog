@@ -33,11 +33,8 @@ ALLOWED_HOSTS = []
 # prueba de git 3
 # prueba git 1
 # prueba git 2
-<<<<<<< HEAD
 # prueba git :)
-=======
-# prueba git 
->>>>>>> 10aa75797102c75b9adc988c4e61a1c00b913bd0
+#prueba rama
 
 INSTALLED_APPS = [
     'django.contrib.admin',
